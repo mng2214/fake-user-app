@@ -1,0 +1,6 @@
+com\cydeo\fakeuserapp\entity\Person.class
+com\cydeo\fakeuserapp\service\FakeUserService.class
+com\cydeo\fakeuserapp\controller\FakeUserController.class
+com\cydeo\fakeuserapp\service\impl\FakeUserServiceImpl.class
+com\cydeo\fakeuserapp\repository\FakeUserRepository.class
+com\cydeo\fakeuserapp\FakeUserAppApplication.class
