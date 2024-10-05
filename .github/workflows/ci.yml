@@ -1,0 +1,4 @@
+- name: Deploy to server
+  run: |
+    scp docker-compose.yml Dockerfile user@your-server:/path/to/deploy/
+    ssh user@your-server 'cd /path/to/deploy && docker-compose up --build -d'
